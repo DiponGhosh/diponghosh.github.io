@@ -1,1 +1,1 @@
-This is the source code to my academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code to my academic website: https://diponghosh.github.io/. This is an adoption of Jon Barron's amazing website (https://jonbarron.info/). Feel free to clone this code for your own personal use.
